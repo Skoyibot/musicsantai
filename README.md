@@ -1,7 +1,7 @@
 <h2 align="centre">Music Skzyi Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/281dcbc94c5c721395a29.jpg">
+  <img src="https://telegra.ph/file/ea46098384533b1564370.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
