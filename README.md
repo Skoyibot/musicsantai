@@ -1,4 +1,4 @@
-<h2 align="centre">Music Skzyi Player</h2>
+<h2 align="centre">Music Skoyi Player</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/ea46098384533b1564370.jpg">
